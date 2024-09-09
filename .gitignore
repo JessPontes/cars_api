@@ -1,12 +1,6 @@
 # Ignorar o arquivo .flake8
 .flake8
 
-# Ignorar o diretório cars/
-cars/
-
-# Ignorar o diretório core/
-core/
-
 # Ignorar o arquivo db.sqlite3
 db.sqlite3
 
@@ -17,5 +11,4 @@ manage.py
 requirements.txt
 requirements_dev.txt
 
-# Ignorar o diretório venv/
 venv/*
